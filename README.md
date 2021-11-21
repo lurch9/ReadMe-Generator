@@ -32,3 +32,8 @@ lurch9
 
 ## E-mail
 lurch9@gmail.com
+
+## VIDEO of Functionality
+
+https://user-images.githubusercontent.com/90292267/142751255-144e2f86-a66c-451f-bbf2-3a954514244f.mp4
+
